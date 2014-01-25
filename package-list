@@ -1,11 +1,10 @@
-com.google.appinventor.blockseditor.jsonp
-com.google.appinventor.blockseditor.youngandroid
 com.google.appinventor.buildserver
 com.google.appinventor.client
 com.google.appinventor.client.boxes
 com.google.appinventor.client.editor
 com.google.appinventor.client.editor.simple
 com.google.appinventor.client.editor.simple.components
+com.google.appinventor.client.editor.simple.components.utils
 com.google.appinventor.client.editor.simple.palette
 com.google.appinventor.client.editor.youngandroid
 com.google.appinventor.client.editor.youngandroid.palette
@@ -64,13 +63,6 @@ com.google.appinventor.shared.rpc.user
 com.google.appinventor.shared.settings
 com.google.appinventor.shared.simple
 com.google.appinventor.shared.storage
+com.google.appinventor.shared.util
 com.google.appinventor.shared.youngandroid
 com.google.appinventor.yailgenerator
-openblocks.codeblocks
-openblocks.codeblocks.rendering
-openblocks.codeblockutil
-openblocks.controller
-openblocks.renderable
-openblocks.workspace
-openblocks.workspace.typeblocking
-openblocks.yacodeblocks
